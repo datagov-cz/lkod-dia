@@ -1,4 +1,4 @@
-# Lokální katalog DIa
+# Lokální katalog DIA
 Metadata lokálního katalogu otevřených dat DIA v JSON-LD.
 
 ## Přidání datové sady
