@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin",
     "typ": "Datová sada",
     "název": {
         "cs": "Typy dřevin"
@@ -23,7 +23,7 @@
         ]
     },
     "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-    "dokumentace": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.html",
+    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.html",
     "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/AGRI"
     ],
@@ -37,19 +37,19 @@
         "jméno": {
             "cs": "Kontakt pro otevřená data"
         },
-        "e-mail": "mailto:otevrenadata@mvcr.cz"
+        "e-mail": "mailto:otevrenadata@dia.gov.cz"
     },
-    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00007064",
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
     "distribuce": [
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/1",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/1",
             "název": {
                 "cs": "Číselník v RDF Turtle",
                 "en": "Codelist in RDF Turtle"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.ttl",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.ttl",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.ttl",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.ttl",
             "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
             "podmínky_užití": {
@@ -62,25 +62,25 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/2",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/2",
             "název": {
                 "cs": "SPARQL Endpoint",
                 "en": "SPARQL Endpoint"
             },
-            "přístupové_url": "https://data.mvcr.gov.cz/sparql",
+            "přístupové_url": "https://data.dia.gov.cz/sparql",
             "přístupová_služba": {
                 "typ": "Datová služba",
                 "specifikace": [
                     "https://www.w3.org/TR/sparql11-protocol/"
                 ],
-                "přístupový_bod": "https://data.mvcr.gov.cz/sparql",
-                "popis_přístupového_bodu": "https://data.mvcr.gov.cz/sparql",
-                "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/2/přístupová-služba",
+                "přístupový_bod": "https://data.dia.gov.cz/sparql",
+                "popis_přístupového_bodu": "https://data.dia.gov.cz/sparql",
+                "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/2/přístupová-služba",
                 "název": {
                     "cs": "SPARQL Endpoint",
                     "en": "SPARQL Endpoint"
                 },
-                "poskytuje_datovou_sadu": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin"
+                "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin"
             },
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
@@ -92,13 +92,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/3",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/3",
             "název": {
                 "cs": "Číselník v JSON-LD",
                 "en": "Codelist in JSON-LD"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.jsonld",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.jsonld",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.jsonld",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.jsonld",
             "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
             "schéma": "https://ofn.gov.cz/číselníky/2022-02-08/schémata/json-ld/číselník.json",
@@ -112,16 +112,16 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/4",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/4",
             "název": {
                 "cs": "Číselník v CSV",
                 "en": "Codelist in CSV"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.csv",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.csv",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.csv",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.csv",
             "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
             "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
-            "schéma": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.csv-metadata.json",
+            "schéma": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.csv-metadata.json",
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
                 "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -132,13 +132,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/5",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/5",
             "název": {
                 "cs": "Číselník v HTML+RDFa",
                 "en": "Codelist in HTML+RDFa"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.html",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.html",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.html",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.html",
             "typ_média": "http://www.iana.org/assignments/media-types/text/html",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDFA",
             "podmínky_užití": {
@@ -151,13 +151,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/6",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/6",
             "název": {
                 "cs": "Číselník v RDF TriG",
                 "en": "Codelist in RDF TriG"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.trig",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.trig",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.trig",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.trig",
             "typ_média": "http://www.iana.org/assignments/media-types/application/trig",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TRIG",
             "podmínky_užití": {
@@ -170,13 +170,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/7",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/7",
             "název": {
                 "cs": "Číselník v RDF N-Triples",
                 "en": "Codelist in RDF N-Triples"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.nt",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.nt",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.nt",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.nt",
             "typ_média": "http://www.iana.org/assignments/media-types/application/n-triples",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES",
             "podmínky_užití": {
@@ -189,13 +189,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/8",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/8",
             "název": {
                 "cs": "Číselník v RDF N-Quads",
                 "en": "Codelist in RDF N-Quads"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.nq",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.nq",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.nq",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.nq",
             "typ_média": "http://www.iana.org/assignments/media-types/application/n-quads",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS",
             "podmínky_užití": {
@@ -208,13 +208,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/9",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/typy-dřevin/distribuce/9",
             "název": {
                 "cs": "Číselník v RDF/XML",
                 "en": "Codelist in RDF/XML"
             },
-            "soubor_ke_stažení": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.rdf",
-            "přístupové_url": "https://data.mvcr.gov.cz/soubory/číselníky/typy-dřevin.rdf",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.rdf",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/typy-dřevin.rdf",
             "typ_média": "http://www.iana.org/assignments/media-types/application/rdf+xml",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
             "podmínky_užití": {

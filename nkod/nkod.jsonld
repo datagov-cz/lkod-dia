@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/nkod/nkod",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/nkod",
   "typ": "Datová sada",
   "název": {
     "cs": "Národní katalog otevřených dat",
@@ -56,7 +56,7 @@
     "jméno": {
       "cs": "Otevřená data MV ČR"
     },
-    "e-mail": "mailto:otevrenadata@mvcr.cz"
+    "e-mail": "mailto:otevrenadata@dia.gov.cz"
   },
-  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00007064"
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921"
 }

@@ -1,6 +1,6 @@
 {
     "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem",
     "typ": "Datová sada",
     "název": {
         "cs": "Číselník právních forem"
@@ -36,11 +36,11 @@
         },
         "e-mail": "mailto:podpora@szrcr.cz"
     },
-    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/00007064",
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
     "distribuce": [
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/1",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/1",
             "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_pravnich_forem.json",
             "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_pravnich_forem.json",
             "typ_média": "http://www.iana.org/assignments/media-types/application/json",
@@ -55,7 +55,7 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/2",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/2",
             "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_pravnich_forem.jsonld",
             "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_pravnich_forem.jsonld",
             "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
@@ -70,7 +70,7 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/3",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/3",
             "název": {
                 "cs": "SPARQL Endpoint",
                 "en": "SPARQL Endpoint"
@@ -83,12 +83,12 @@
                 ],
                 "přístupový_bod": "https://rpp-opendata.egon.gov.cz/odrpp/sparql/",
                 "popis_přístupového_bodu": "https://rpp-opendata.egon.gov.cz/odrpp/sparql/",
-                "iri": "https://data.mvcr.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/3/přístupová-služba",
+                "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem/distribuce/3/přístupová-služba",
                 "název": {
                     "cs": "SPARQL Endpoint",
                     "en": "SPARQL Endpoint"
                 },
-                "poskytuje_datovou_sadu": "https://data.mvcr.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem"
+                "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-právních-forem"
             },
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
