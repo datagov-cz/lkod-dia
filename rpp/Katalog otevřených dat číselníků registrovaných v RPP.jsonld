@@ -1,0 +1,63 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/katalog-otevřených-dat-číselníků-registrovaných-v-RPP",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Katalog otevřených dat číselníků registrovaných v RPP",
+    "en": "Open Data Catalog of RPP codelists"
+  },
+  "popis": {
+    "cs": "Otevřená data číselníků registrovaných v RPP. Obsahuje datové sady číselníků veřejného datového fondu.",
+    "en": "Open data of RPP codelists. It contains datasets of codelists used in public data fond."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "rpp",
+      "registr práv a povinností",
+      "číselník"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/77",
+    "http://eurovoc.europa.eu/4136",
+    "http://eurovoc.europa.eu/39",
+    "http://eurovoc.europa.eu/4182",
+    "http://eurovoc.europa.eu/3062",
+    "http://eurovoc.europa.eu/2584"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Help desk správy základních registrů (SZR)"
+    },
+    "e-mail": "mailto:podpora@szrcr.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/katalog-otevřených-dat-číselníků-registrovaných-v-RPP/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://rpp-ais.egon.gov.cz/AISP/rest/verejne/ddciselniky/lkod",
+      "přístupové_url": "https://rpp-ais.egon.gov.cz/AISP/rest/verejne/ddciselniky/lkod",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
+    }
+  ]
+}
