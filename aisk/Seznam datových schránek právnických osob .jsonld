@@ -1,0 +1,64 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/aisk/seznam-datových-schránek-právnických-osob",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Seznam datových schránek právnických osob "
+  },
+  "popis": {
+    "cs": "Seznam datových schránek poskytuje celkem tři datové soubory v xml formátu se seznamem datových schránek, které obsahují strojově čitelné údaje o držitelích datových schránek právnických, podnikajících fyzických osob a OVM, resp. detailní informace (metadata) o každé z obsažených datových schránek. Informace o datových schránkách jsou poskytovány v struktuře jednotlivých atributů uvedených dle popisu v bodě 2. 4.  uživatelské dokumentace k Seznamu datových schránek"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "Datové schránky",
+      "Právnická osoba",
+      "Podnikající fyzická osoba",
+      "Orgán veřejné moci",
+      "OVM"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+  "dokumentace": "https://www.mojedatovaschranka.cz/sds/p/download/sds_datove_soubory.pdf#view=Fit",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/2584",
+    "http://eurovoc.europa.eu/3062",
+    "http://eurovoc.europa.eu/77",
+    "http://eurovoc.europa.eu/68",
+    "http://eurovoc.europa.eu/2588",
+    "http://eurovoc.europa.eu/5120",
+    "http://eurovoc.europa.eu/6897",
+    "http://eurovoc.europa.eu/6609"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "e-mail": "mailto:oveg@dia.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/aisk/seznam-datových-schránek-právnických-osob/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.mojedatovaschranka.cz/sds/datafile?format=xml&service=seznam_ds_po",
+      "přístupové_url": "https://www.mojedatovaschranka.cz/sds/datafile?format=xml&service=seznam_ds_po",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
+      "schéma": "https://www.mojedatovaschranka.cz/sds/datafile?format=xsd&service=seznam_ds"
+    }
+  ]
+}
