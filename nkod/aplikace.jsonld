@@ -1,0 +1,132 @@
+{
+    "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace",
+    "typ": "Datová sada",
+    "název": {
+      "cs": "Aplikace využívající otevřená data",
+      "en": "Applications using open data"
+    },
+    "popis": {
+      "cs": "Aplikace využívající otevřená data registrovaná na portálu otevřených dat.",
+      "en": "Applications using open data registered at the Czech open data portal."
+    },
+    "prvek_rúian": [
+      "https://linked.cuzk.cz/resource/ruian/stat/1"
+    ],
+    "geografické_území": [
+      "http://publications.europa.eu/resource/authority/country/CZE"
+    ],
+    "prostorové_pokrytí": [],
+    "klíčové_slovo": {
+      "cs": [
+        "aplikace",
+        "využívání dat"
+      ],
+      "en": [
+        "application",
+        "data reuse"
+      ]
+    },
+    "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "téma": [
+      "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    ],
+    "koncept_euroVoc": [
+      "http://eurovoc.europa.eu/c_8ce6dcec",
+      "http://eurovoc.europa.eu/c_5ea6e5c4"
+    ],
+    "kontaktní_bod": {
+      "typ": "Organizace",
+      "jméno": {
+        "cs": "Lenka Kováčová"
+      },
+      "e-mail": "mailto:otevrenadata@dia.gov.cz"
+    },
+    "distribuce": [
+      {
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/0",
+        "typ": "Distribuce",
+        "název": {
+          "cs": "RDF Turtle",
+          "en": "RDF Turtle"
+        },
+        "podmínky_užití": {
+          "typ": "Specifikace podmínek užití",
+          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        },
+        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.ttl",
+        "přístupové_url": "https://data.gov.cz/soubor/aplikace.ttl",
+        "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+        "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+      },
+      {
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/1",
+        "typ": "Distribuce",
+        "název": {
+          "cs": "CSV se seznamy v buňkách",
+          "en": "CSV with lists in cells"
+        },
+        "podmínky_užití": {
+          "typ": "Specifikace podmínek užití",
+          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        },
+        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
+        "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
+        "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      {
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/2",
+        "typ": "Distribuce",
+        "název": {
+          "cs": "CSV dle 1NF",
+          "en": "CSV according to 1NF"
+        },
+        "podmínky_užití": {
+          "typ": "Specifikace podmínek užití",
+          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        },
+        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
+        "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
+        "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      {
+        "typ": "Distribuce",
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/3",
+        "název": {
+          "cs": "Přístupový bod SPARQL",
+          "en": "SPARQL endpoint"
+        },
+        "podmínky_užití": {
+          "typ": "Specifikace podmínek užití",
+          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+        },
+        "přístupové_url": "https://data.gov.cz/sparql",
+        "přístupová_služba": {
+          "typ": "Datová služba",
+          "přístupový_bod": "https://data.gov.cz/sparql",
+          "popis_přístupového_bodu": "https://data.gov.cz/sparql",
+          "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/3/přístupová-služba",
+          "název": {
+            "cs": "Přístupový bod SPARQL",
+            "en": "SPARQL endpoint"
+          },
+          "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace",
+          "specifikace": "https://www.w3.org/TR/sparql11-protocol/"
+        }
+      }
+    ]
+  }
