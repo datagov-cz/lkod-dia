@@ -55,7 +55,7 @@
           "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
           "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
           "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
         },
         "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.ttl",
         "přístupové_url": "https://data.gov.cz/soubor/aplikace.ttl",
@@ -74,7 +74,7 @@
           "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
           "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
           "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
         },
         "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
         "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
@@ -93,7 +93,7 @@
           "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
           "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
           "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
         },
         "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
         "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
@@ -112,7 +112,7 @@
           "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
           "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
           "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-          "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
         },
         "přístupové_url": "https://data.gov.cz/sparql",
         "přístupová_služba": {
