@@ -79,7 +79,8 @@
         "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
         "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
         "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
-        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "schéma": "https://data.gov.cz/soubor/aplikace.csv-metadata.json"
       },
       {
         "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/2",
@@ -95,10 +96,11 @@
           "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
           "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
         },
-        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
+        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace-1nf.csv",
         "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
         "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
-        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "schéma": "https://data.gov.cz/soubor/aplikace-1nf.csv-metadata.json"
       },
       {
         "typ": "Distribuce",
