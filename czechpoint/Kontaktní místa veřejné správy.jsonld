@@ -1,0 +1,54 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/czechpoint/",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Kontaktní místa veřejné správy"
+  },
+  "popis": {
+    "cs": "Seznam všech pracovišť kontaktních míst veřejné správy, neboli pracovišť Czech POINT (český podací ověřovací informační národní terminál)"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "KMVS",
+      "Czech POINT",
+      "kontaktní místo veřejné správy"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Helena Duffková"
+    },
+    "e-mail": "mailto:helpdesk@czechpoint.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/czechpoint//distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.czechpoint.cz/wwwstats/f?p=100:4:0::NO",
+      "přístupové_url": "https://www.czechpoint.cz/wwwstats/f?p=100:4:0::NO",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+    }
+  ]
+}
