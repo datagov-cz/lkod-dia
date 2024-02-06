@@ -1,0 +1,58 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/registry/smlouvy-v-registru-smluv",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Smlouvy v Registru smluv"
+  },
+  "popis": {
+    "cs": "Zákon č. 340/2015 Sb., o registru smluv, ukládá širokému okruhu subjektů povinnost zveřejňovat smlouvy s hodnotou nad 50 tis. Kč bez DPH v Registru smluv. Všechna metadata smluv zveřejněných v Informačním registru smluv, jsou otevřeně dostupná."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "registr smluv"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://smlouvy.gov.cz/stranka/otevrena-data",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/JUST"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Vladimír Andrš"
+    },
+    "e-mail": "mailto:registrsmluv@mvcr.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/registry/smlouvy-v-registru-smluv/distribuce/0",
+      "název": {
+        "cs": "Informační systém registru smluv"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://smlouvy.gov.cz/stranka/otevrena-data",
+        "databáze_jako_autorské_dílo": "https://smlouvy.gov.cz/stranka/otevrena-data",
+        "databáze_chráněná_zvláštními_právy": "https://smlouvy.gov.cz/stranka/otevrena-data",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://data.smlouvy.gov.cz/",
+      "přístupové_url": "https://data.smlouvy.gov.cz/",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
+      "schéma": "https://smlouvy.gov.cz/soubor/isrs-xsd.zip"
+    }
+  ]
+}
