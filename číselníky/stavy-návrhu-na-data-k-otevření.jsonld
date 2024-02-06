@@ -1,0 +1,232 @@
+{
+    "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření",
+    "typ": "Datová sada",
+    "název": {
+        "cs": "Číselník stavů návrhů na datové sady k otevření",
+        "en": "Codelist of proposals of datasets to be opened"
+    },
+    "popis": {
+        "cs": "Číselník stavů návrhů na datové sady k otevření",
+        "en": "Codelist of proposals of datasets to be opened"
+    },
+    "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/stat/1"
+    ],
+    "geografické_území": [],
+    "prostorové_pokrytí": [],
+    "klíčové_slovo": {
+        "cs": [
+            "návrh k otevření",
+            "číselník"
+        ],
+        "en": [
+            "codelist",
+            "proposal of data to be opened"
+        ]
+    },
+    "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.html",
+    "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    ],
+    "koncept_euroVoc": [],
+    "specifikace": [
+        "https://ofn.gov.cz/číselníky/",
+        "https://ofn.gov.cz/číselníky/2022-02-08/"
+    ],
+    "kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+            "cs": "Kontakt pro otevřená data"
+        },
+        "e-mail": "mailto:otevrenadata@dia.gov.cz"
+    },
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+    "distribuce": [
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/1",
+            "název": {
+                "cs": "Číselník v RDF Turtle",
+                "en": "Codelist in RDF Turtle"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.ttl",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.ttl",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/2",
+            "název": {
+                "cs": "SPARQL Endpoint",
+                "en": "SPARQL Endpoint"
+            },
+            "přístupové_url": "https://data.dia.gov.cz/sparql",
+            "přístupová_služba": {
+                "typ": "Datová služba",
+                "specifikace": [ 
+                    "https://www.w3.org/TR/sparql11-protocol/"
+                ],
+                "přístupový_bod": "https://data.dia.gov.cz/sparql",
+                "popis_přístupového_bodu": "https://data.dia.gov.cz/sparql",
+                "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/2/přístupová-služba",
+                "název": {
+                    "cs": "SPARQL Endpoint",
+                    "en": "SPARQL Endpoint"
+                },
+                "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/3",
+            "název": {
+                "cs": "Číselník v JSON-LD",
+                "en": "Codelist in JSON-LD"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.jsonld",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.jsonld",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+            "schéma": "https://ofn.gov.cz/číselníky/2022-02-08/schémata/json-ld/číselník.json",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/4",
+            "název": {
+                "cs": "Číselník v CSV",
+                "en": "Codelist in CSV"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.csv",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.csv",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "schéma": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.csv-metadata.json",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/5",
+            "název": {
+                "cs": "Číselník v HTML+RDFa",
+                "en": "Codelist in HTML+RDFa"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.html",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.html",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDFA",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/6",
+            "název": {
+                "cs": "Číselník v RDF TriG",
+                "en": "Codelist in RDF TriG"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.trig",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.trig",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/trig",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TRIG",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/7",
+            "název": {
+                "cs": "Číselník v RDF N-Triples",
+                "en": "Codelist in RDF N-Triples"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.nt",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.nt",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/n-triples",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/8",
+            "název": {
+                "cs": "Číselník v RDF N-Quads",
+                "en": "Codelist in RDF N-Quads"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.nq",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.nq",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/n-quads",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/stavy-návrhu-na-data-k-otevření/distribuce/9",
+            "název": {
+                "cs": "Číselník v RDF/XML",
+                "en": "Codelist in RDF/XML"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.rdf",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/stavy-návrhu-na-data-k-otevření.rdf",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/rdf+xml",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            }
+        }
+    ]
+}
