@@ -1,0 +1,76 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/datsadypublikujícíúdaje",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Datové sady publikující údaje v Registru práv a povinností"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje pro jednotlivé (veřejné) údaje odkazy na datovou sadu, ve které jsou dané údaje publikovány."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "registr práv a povinností",
+      "rpp",
+      "datové sady"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/77",
+    "http://eurovoc.europa.eu/4136",
+    "http://eurovoc.europa.eu/39",
+    "http://eurovoc.europa.eu/4182",
+    "http://eurovoc.europa.eu/3062",
+    "http://eurovoc.europa.eu/2584",
+    "http://eurovoc.europa.eu/68",
+    "http://eurovoc.europa.eu/5120",
+    "http://eurovoc.europa.eu/2588",
+    "http://eurovoc.europa.eu/6897",
+    "http://eurovoc.europa.eu/6609",
+    "http://eurovoc.europa.eu/4272"
+  ],
+  "kontaktní_bod": {},
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/datsadypublikujícíúdaje/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.json",
+      "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.json",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/datsadypublikujícíúdaje/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.jsonld",
+      "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.jsonld",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD"
+    }
+  ]
+}
