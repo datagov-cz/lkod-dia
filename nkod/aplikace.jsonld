@@ -63,46 +63,6 @@
         "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
       },
       {
-        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/1",
-        "typ": "Distribuce",
-        "název": {
-          "cs": "CSV se seznamy v buňkách",
-          "en": "CSV with lists in cells"
-        },
-        "podmínky_užití": {
-          "typ": "Specifikace podmínek užití",
-          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
-        },
-        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace.csv",
-        "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
-        "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
-        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
-        "schéma": "https://data.gov.cz/soubor/aplikace.csv-metadata.json"
-      },
-      {
-        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/2",
-        "typ": "Distribuce",
-        "název": {
-          "cs": "CSV dle 1NF",
-          "en": "CSV according to 1NF"
-        },
-        "podmínky_užití": {
-          "typ": "Specifikace podmínek užití",
-          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
-          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
-          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
-          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
-        },
-        "soubor_ke_stažení": "https://data.gov.cz/soubor/aplikace-1nf.csv",
-        "přístupové_url": "https://data.gov.cz/soubor/aplikace.csv",
-        "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
-        "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
-        "schéma": "https://data.gov.cz/soubor/aplikace-1nf.csv-metadata.json"
-      },
-      {
         "typ": "Distribuce",
         "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/aplikace/distribuce/3",
         "název": {
