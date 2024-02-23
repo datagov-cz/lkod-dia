@@ -1,0 +1,93 @@
+{
+    "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/návrhy",
+    "typ": "Datová sada",
+    "název": {
+      "cs": "Návrhy datových sad k otevření",
+      "en": "Suggestions of datasets to be opened"
+    },
+    "popis": {
+      "cs": "Návrhy datových sad k otevření registrované na Portálu otevřených dat.",
+      "en": "Suggestions of datasets to be opened registered in the Czech Open Data Portal."
+    },
+    "prvek_rúian": [
+      "https://linked.cuzk.cz/resource/ruian/stat/1"
+    ],
+    "geografické_území": [
+      "http://publications.europa.eu/resource/authority/country/CZE"
+    ],
+    "prostorové_pokrytí": [],
+    "klíčové_slovo": {
+      "cs": [
+        "návrhy",
+        "otevřená data"
+      ],
+      "en": [
+        "suggestions",
+        "open data"
+      ]
+    },
+    "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "téma": [
+      "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    ],
+    "koncept_euroVoc": [
+      "http://eurovoc.europa.eu/c_5ea6e5c4"
+    ],
+    "kontaktní_bod": {
+      "typ": "Organizace",
+      "jméno": {
+        "cs": "Lenka Kováčová"
+      },
+      "e-mail": "mailto:otevrenadata@dia.gov.cz"
+    },
+    "distribuce": [
+      {
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/návrhy/distribuce/0",
+        "typ": "Distribuce",
+        "název": {
+          "cs": "RDF Turtle",
+          "en": "RDF Turtle"
+        },
+        "podmínky_užití": {
+          "typ": "Specifikace podmínek užití",
+          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+        },
+        "soubor_ke_stažení": "https://data.gov.cz/soubor/návrhy.ttl",
+        "přístupové_url": "https://data.gov.cz/soubor/návrhy.ttl",
+        "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+        "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+      },
+      {
+        "typ": "Distribuce",
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/návrhy/distribuce/3",
+        "název": {
+          "cs": "Přístupový bod SPARQL",
+          "en": "SPARQL endpoint"
+        },
+        "podmínky_užití": {
+          "typ": "Specifikace podmínek užití",
+          "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+          "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+          "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+          "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+        },
+        "přístupové_url": "https://data.gov.cz/sparql",
+        "přístupová_služba": {
+          "typ": "Datová služba",
+          "přístupový_bod": "https://data.gov.cz/sparql",
+          "popis_přístupového_bodu": "https://data.gov.cz/sparql",
+          "iri": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/návrhy/distribuce/3/přístupová-služba",
+          "název": {
+            "cs": "Přístupový bod SPARQL",
+            "en": "SPARQL endpoint"
+          },
+          "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/návrhy",
+          "specifikace": "https://www.w3.org/TR/sparql11-protocol/"
+        }
+      }
+    ]
+  }
