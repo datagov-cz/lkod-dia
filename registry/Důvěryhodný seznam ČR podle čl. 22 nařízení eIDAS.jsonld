@@ -30,9 +30,7 @@
   "koncept_euroVoc": [],
   "kontaktní_bod": {
     "typ": "Organizace",
-    "jméno": {
-      "cs": "Filip Bílek"
-    }
+    "e-mail": "mailto:eidas@dia.gov.cz"
   },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
   "distribuce": [
