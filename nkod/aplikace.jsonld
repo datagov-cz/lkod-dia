@@ -10,6 +10,7 @@
       "cs": "Aplikace využívající otevřená data registrovaná na portálu otevřených dat.",
       "en": "Applications using open data registered at the Czech open data portal."
     },
+    "je_součástí": "https://data.dia.gov.cz/zdroj/datové-sady/nkod/nkod",
     "prvek_rúian": [
       "https://linked.cuzk.cz/resource/ruian/stat/1"
     ],
