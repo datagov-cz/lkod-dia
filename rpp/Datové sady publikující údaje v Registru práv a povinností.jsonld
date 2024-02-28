@@ -22,6 +22,7 @@
     "en": []
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "dokumentace": "https://ofn.gov.cz/registr-práv-a-povinností/datové-sady-publikující-údaje/2024-02-28/",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
@@ -39,6 +40,9 @@
     "http://eurovoc.europa.eu/6609",
     "http://eurovoc.europa.eu/4272"
   ],
+  "specifikace": [
+    "https://ofn.gov.cz/registr-práv-a-povinností/datové-sady-publikující-údaje/2024-02-28/"
+  ],
   "kontaktní_bod": {},
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
   "distribuce": [
@@ -55,7 +59,8 @@
       "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.json",
       "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.json",
       "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON",
+      "schéma": "https://ofn.gov.cz/registr-práv-a-povinností/datové-sady-publikující-údaje/2024-02-28/datové-sady-publikující-údaje.schema.json"
     },
     {
       "typ": "Distribuce",
@@ -70,7 +75,8 @@
       "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.jsonld",
       "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/datove_sady_publikujici_udaje.jsonld",
       "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD"
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+      "schéma": "https://ofn.gov.cz/registr-práv-a-povinností/datové-sady-publikující-údaje/2024-02-28/datové-sady-publikující-údaje.schema.json"
     }
   ]
 }
