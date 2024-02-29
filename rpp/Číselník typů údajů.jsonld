@@ -1,0 +1,70 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Číselník typů údajů"
+  },
+  "popis": {
+    "cs": "Číselník typů údajů se používá pro kódování jednotlivých typů údajů vedených v agendě. Číselník je použit v datové sadě Subjekty a objekty údajů a jejich údaje."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "registr práv a povinností",
+      "rpp",
+      "číselník",
+      "údaje"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "dokumentace": "https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F17651921%2F6e5f68fd8c9962bd5972d4384798e2d9",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Šimon Trusina"
+    }
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp//distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_typ_udaju.json",
+      "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_typ_udaju.json",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp//distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_typ_udaju.jsonld",
+      "přístupové_url": "https://rpp-opendata.egon.gov.cz/odrpp/datovasada/cis_typ_udaju.jsonld",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD"
+    }
+  ]
+}
