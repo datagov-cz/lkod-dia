@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-typůdodavatele",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník typů dodavatele"
@@ -40,7 +40,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp//distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-typůdodavatele/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -55,7 +55,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp//distribuce/1",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-typůdodavatele/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-typůetapy",
   "typ": "Datová sada",
   "název": {
     "cs": "Číselník typů etapy"
@@ -24,7 +24,6 @@
     "en": []
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
-  "dokumentace": "https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F17651921%2F6f8561e8f13e79e817b9854dcfbc4144",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
@@ -39,7 +38,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp//distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-typůetapy/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -54,7 +53,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp//distribuce/1",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/číselník-typůetapy/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
