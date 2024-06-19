@@ -39,7 +39,13 @@
     "http://eurovoc.europa.eu/4272",
     "http://eurovoc.europa.eu/6897"
   ],
-  "kontaktní_bod": {},
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Šimon Trusina"
+    },
+    "e-mail": "mailto:simon.trusina@dia.gov.cz"
+  },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
   "distribuce": [
     {
