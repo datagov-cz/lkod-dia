@@ -1,2 +1,2 @@
 # Číselníky
-Jedná se o katalogizační záznamy [číselníků](https://github.com/opendata-mvcr/ciselniky) podporujících zejména [Otevřené formální normy](https://data.gov.cz).
+Jedná se o katalogizační záznamy [číselníků](https://github.com/datagov-cz/ciselniky) podporujících například [Otevřené formální normy](https://ofn.gov.cz).
