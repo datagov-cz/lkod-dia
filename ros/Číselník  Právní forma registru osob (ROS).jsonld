@@ -1,0 +1,79 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Číselník: Právní forma registru osob (ROS)"
+  },
+  "popis": {
+    "cs": "Právní forma registru osob (ROS)"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "právní forma",
+      "číselník",
+      "ROS"
+    ],
+    "en": [
+      "codelist"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://www.szrcr.cz/cs/registr-osob/otevrena-data-ros/pravni-forma-registru-osob-ros",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/ECON",
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/SOCI"
+  ],
+  "koncept_euroVoc": [],
+  "specifikace": [
+    "https://opendata.gov.cz/standardy:technicke-standardy-pro-datove-sady-na-stupni-3"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Jana Forstová"
+    },
+    "e-mail": "mailto:jana.forstova@dia.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.szrcr.cz/images/dokumenty/ROS/Otevrena%20data/CIS1_CS.csv",
+      "přístupové_url": "https://www.szrcr.cz/images/dokumenty/ROS/Otevrena%20data/CIS1_CS.csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+      "schéma": "https://www.szrcr.cz/images/dokumenty/ROS/Otevrena%20data/ciselnikyCSV.json"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.szrcr.cz/images/dokumenty/ROS/Otevrena%20data/CIS1_CS.xml",
+      "přístupové_url": "https://www.szrcr.cz/images/dokumenty/ROS/Otevrena%20data/CIS1_CS.xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XML",
+      "schéma": "https://www.szrcr.cz/images/dokumenty/ROS/Otevrena%20data/isms_cisel.xsd.xml"
+    }
+  ]
+}
