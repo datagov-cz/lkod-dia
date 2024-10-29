@@ -42,7 +42,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/registr-osob-aktivní-provozovny/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",

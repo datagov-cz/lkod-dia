@@ -45,7 +45,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/číselník-pravní-forma-ROS/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -61,7 +61,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/distribuce/1",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/ros/číselník-pravní-forma-ROS/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
