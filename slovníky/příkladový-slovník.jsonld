@@ -1,0 +1,52 @@
+{
+    "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/slovníky/příkladový-slovník",
+    "typ": "Datová sada",
+    "název": {
+        "cs": "Příkladový slovník z metodiky popisu dat"
+    },
+    "popis": {
+        "cs": "Ukázkový slovník zákona o silničním provozu z metodiky. Jedná se o příklad popisu; není garantován soulad tohoto slovníku s aktuálními zákony a jinými zdroji z této oblasti."
+    },
+    "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/stat/1"
+    ],
+    "geografické_území": [],
+    "prostorové_pokrytí": [],
+    "klíčové_slovo": {
+        "cs": [
+            "slovník",
+            "veřejná správa"
+        ],
+        "en": []
+    },
+    "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/AS_NEEDED",
+    "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    ],
+    "koncept_euroVoc": [
+        "http://eurovoc.europa.eu/438"
+    ],
+    "specifikace": [
+        "https://ofn.gov.cz/slovníky/draft/"
+    ],
+    "kontaktní_bod": {},
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+    "distribuce": [
+        {
+            "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/slovníky/sopvs/distribuce/0",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/main/P%C5%99%C3%ADkladov%C3%BD%20slovn%C3%ADk%20z%20metodiky%20popisu%20dat.ttl",
+            "přístupové_url": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/main/P%C5%99%C3%ADkladov%C3%BD%20slovn%C3%ADk%20z%20metodiky%20popisu%20dat.ttl",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+        }
+    ]
+}
