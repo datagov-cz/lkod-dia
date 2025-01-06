@@ -35,7 +35,7 @@
     "distribuce": [
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/slovníky/sopvs/distribuce/0",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/slovníky/příkladový-slovník/distribuce/0",
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
                 "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
