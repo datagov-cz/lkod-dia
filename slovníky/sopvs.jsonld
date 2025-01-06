@@ -43,8 +43,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/main/Slovn%C3%ADk%20obecn%C3%BDch%20pojm%C5%AF%20ve%C5%99ejn%C3%A9%20spr%C3%A1vy.ttl",
-            "přístupové_url": "https://raw.githubusercontent.com/datagov-cz/slovniky-ofn/refs/heads/main/Slovn%C3%ADk%20obecn%C3%BDch%20pojm%C5%AF%20ve%C5%99ejn%C3%A9%20spr%C3%A1vy.ttl",
+            "soubor_ke_stažení": "https://datagov-cz.github.io/slovniky-ofn/Slovn%C3%ADk%20obecn%C3%BDch%20pojm%C5%AF%20ve%C5%99ejn%C3%A9%20spr%C3%A1vy.ttl",
+            "přístupové_url": "https://datagov-cz.github.io/slovniky-ofn/Slovn%C3%ADk%20obecn%C3%BDch%20pojm%C5%AF%20ve%C5%99ejn%C3%A9%20spr%C3%A1vy.ttl",
             "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
         }
