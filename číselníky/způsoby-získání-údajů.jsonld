@@ -1,14 +1,14 @@
 {
     "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů",
     "typ": "Datová sada",
     "název": {
-        "cs": "Číselník kategorií údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb.",
-        "en": "Codelist of data categories in Czech public administration information systems according to § 23, par. 1, decree no. 360/2023 Coll."
+        "cs": "Číselník způsobů získání údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb.",
+        "en": "Codelist of data acquisition methods in Czech public administration information systems according to § 23, par. 1, decree no. 360/2023 Coll."
     },
     "popis": {
-        "cs": "Číselník obsahuje kategorie údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb.",
-        "en": "The codelist contains categories of data in Czech public administration information systems according to § 23, par. 1, decree no. 360/2023 Coll."
+        "cs": "Číselník obsahuje způsoby získání údajů v ISVS dle § 23, odst. 1, vyhlášky č. 360/2023 Sb.",
+        "en": "The codelist contains data acquisition methods of data in Czech public administration information systems according to § 23, par. 1, decree no. 360/2023 Coll."
     },
     "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -19,18 +19,18 @@
         "cs": [
             "údaj",
             "data",
-            "kategorie",
+            "způsob získání",
             "číselník"
         ],
         "en": [
             "codelist",
             "data",
-            "category",
+            "data aquisition",
             "type"
         ]
     },
     "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.html",
+    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.html",
     "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/GOVE"
     ],
@@ -50,13 +50,13 @@
     "distribuce": [
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/1",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/1",
             "název": {
                 "cs": "Číselník v RDF Turtle",
                 "en": "Codelist in RDF Turtle"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.ttl",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.ttl",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.ttl",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.ttl",
             "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
             "podmínky_užití": {
@@ -69,7 +69,7 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/2",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/2",
             "název": {
                 "cs": "SPARQL Endpoint",
                 "en": "SPARQL Endpoint"
@@ -82,12 +82,12 @@
                 ],
                 "přístupový_bod": "https://data.dia.gov.cz/sparql",
                 "popis_přístupového_bodu": "https://data.dia.gov.cz/sparql",
-                "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/2/přístupová-služba",
+                "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/2/přístupová-služba",
                 "název": {
                     "cs": "SPARQL Endpoint",
                     "en": "SPARQL Endpoint"
                 },
-                "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů"
+                "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů"
             },
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
@@ -99,13 +99,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/3",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/3",
             "název": {
                 "cs": "Číselník v JSON-LD",
                 "en": "Codelist in JSON-LD"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.jsonld",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.jsonld",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.jsonld",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.jsonld",
             "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
             "schéma": "https://ofn.gov.cz/číselníky/2022-02-08/schémata/json-ld/číselník.json",
@@ -119,16 +119,16 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/4",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/4",
             "název": {
                 "cs": "Číselník v CSV",
                 "en": "Codelist in CSV"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.csv",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.csv",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.csv",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.csv",
             "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
             "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
-            "schéma": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.csv-metadata.json",
+            "schéma": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.csv-metadata.json",
             "podmínky_užití": {
                 "typ": "Specifikace podmínek užití",
                 "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -139,13 +139,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/5",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/5",
             "název": {
                 "cs": "Číselník v HTML+RDFa",
                 "en": "Codelist in HTML+RDFa"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.html",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.html",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.html",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.html",
             "typ_média": "http://www.iana.org/assignments/media-types/text/html",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDFA",
             "podmínky_užití": {
@@ -158,13 +158,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/6",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/6",
             "název": {
                 "cs": "Číselník v RDF TriG",
                 "en": "Codelist in RDF TriG"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.trig",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.trig",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.trig",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.trig",
             "typ_média": "http://www.iana.org/assignments/media-types/application/trig",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TRIG",
             "podmínky_užití": {
@@ -177,13 +177,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/7",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/7",
             "název": {
                 "cs": "Číselník v RDF N-Triples",
                 "en": "Codelist in RDF N-Triples"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.nt",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.nt",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.nt",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.nt",
             "typ_média": "http://www.iana.org/assignments/media-types/application/n-triples",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES",
             "podmínky_užití": {
@@ -196,13 +196,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/8",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/8",
             "název": {
                 "cs": "Číselník v RDF N-Quads",
                 "en": "Codelist in RDF N-Quads"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.nq",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.nq",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.nq",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.nq",
             "typ_média": "http://www.iana.org/assignments/media-types/application/n-quads",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS",
             "podmínky_užití": {
@@ -215,13 +215,13 @@
         },
         {
             "typ": "Distribuce",
-            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/kategorie-údajů/distribuce/9",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/způsoby-získání-údajů/distribuce/9",
             "název": {
                 "cs": "Číselník v RDF/XML",
                 "en": "Codelist in RDF/XML"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.rdf",
-            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/kategorie-údajů.rdf",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.rdf",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/způsoby-získání-údajů.rdf",
             "typ_média": "http://www.iana.org/assignments/media-types/application/rdf+xml",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
             "podmínky_užití": {
