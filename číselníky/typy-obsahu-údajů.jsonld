@@ -20,13 +20,15 @@
             "údaj",
             "data",
             "obsah",
-            "číselník"
+            "číselník",
+            "360/2023"
         ],
         "en": [
             "codelist",
             "data",
             "content",
-            "type"
+            "type",
+            "360/2023"
         ]
     },
     "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
