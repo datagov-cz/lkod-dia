@@ -43,8 +43,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://datagov-cz.github.io/slovniky-ofn/P%C5%99%C3%ADkladov%C3%BD%20slovn%C3%ADk%20z%20metodiky%20popisu%20dat.ttl",
-            "přístupové_url": "https://datagov-cz.github.io/slovniky-ofn/P%C5%99%C3%ADkladov%C3%BD%20slovn%C3%ADk%20z%20metodiky%20popisu%20dat.ttl",
+            "soubor_ke_stažení": "https://datagov-cz.github.io/slovniky-ofn/příkladový-slovník-z-metodiky-popisu-dat.ttl",
+            "přístupové_url": "https://datagov-cz.github.io/slovniky-ofn/příkladový-slovník-z-metodiky-popisu-dat.ttl",
             "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
         }
