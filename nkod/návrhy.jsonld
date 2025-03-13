@@ -29,6 +29,7 @@
       ]
     },
     "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/MONTHLY",
+    "dokumentace": "https://ofn.gov.cz/návrhy-na-data-k-otevření/",
     "téma": [
       "http://publications.europa.eu/resource/authority/data-theme/GOVE"
     ],
