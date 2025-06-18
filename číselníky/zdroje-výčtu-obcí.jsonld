@@ -1,0 +1,222 @@
+{
+    "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí",
+    "typ": "Datová sada",
+    "název": {
+        "cs": "Číselník zdrojů výčtu členů svazku obcí",
+        "en": "Codelist of sources for members of municipality unions"
+    },
+    "popis": {
+        "cs": "Číselník obsahuje možné zdroje výčtu obcí, které jsou členy daného svazku obcí.",
+        "en": "The codelist contains possible sources for members of municipality unions."
+    },
+    "prvek_rúian": [
+        "https://linked.cuzk.cz/resource/ruian/stat/1"
+    ],
+    "geografické_území": [],
+    "prostorové_pokrytí": [],
+    "klíčové_slovo": {
+        "cs": [
+            "číselník",
+            "svazek obcí",
+            "obec"
+        ],
+        "en": [
+            "codelist",
+            "municipality union",
+            "municipality"
+        ]
+    },
+    "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-obcí.html",
+    "téma": [
+        "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+        "http://publications.europa.eu/resource/authority/data-theme/REGI"
+    ],
+    "koncept_euroVoc": [],
+    "specifikace": [
+        "https://ofn.gov.cz/číselníky/",
+        "https://ofn.gov.cz/číselníky/2022-02-08/"
+    ],
+    "kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+            "cs": "Kontakt pro otevřená data"
+        },
+        "e-mail": "mailto:otevrenadata@dia.gov.cz"
+    },
+    "distribuce": [
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v RDF Turtle",
+                "en": "Codelist in RDF Turtle"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.ttl",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.ttl",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "SPARQL Endpoint",
+                "en": "SPARQL Endpoint"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "přístupové_url": "https://data.dia.gov.cz/sparql",
+            "přístupová_služba": {
+                "typ": "Datová služba",
+                "přístupový_bod": "https://data.dia.gov.cz/sparql",
+                "popis_přístupového_bodu": "https://data.dia.gov.cz/sparql",
+                "název": {
+                    "cs": "SPARQL Endpoint",
+                    "en": "SPARQL Endpoint"
+                },
+                "poskytuje_datovou_sadu": "_:ds",
+                "specifikace": "https://www.w3.org/TR/sparql11-protocol/"
+            }
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v JSON-LD",
+                "en": "Codelist in JSON-LD"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.jsonld",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.jsonld",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+            "schéma": "https://ofn.gov.cz/číselníky/2022-02-08/schémata/json-ld/číselník.json"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v CSV",
+                "en": "Codelist in CSV"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
+            "schéma": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv-metadata.json"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v HTML+RDFa",
+                "en": "Codelist in HTML+RDFa"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.html",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.html",
+            "typ_média": "http://www.iana.org/assignments/media-types/text/html",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDFA"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v RDF TriG",
+                "en": "Codelist in RDF TriG"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.trig",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.trig",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/trig",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TRIG"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v RDF N-Triples",
+                "en": "Codelist in RDF N-Triples"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nt",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nt",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/n-triples",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v RDF N-Quads",
+                "en": "Codelist in RDF N-Quads"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nq",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nq",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/n-quads",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS"
+        },
+        {
+            "typ": "Distribuce",
+            "název": {
+                "cs": "Číselník v RDF/XML",
+                "en": "Codelist in RDF/XML"
+            },
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.rdf",
+            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.rdf",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/rdf+xml",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_XML"
+        }
+    ]
+}
