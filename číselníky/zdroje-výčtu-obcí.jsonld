@@ -45,9 +45,11 @@
         },
         "e-mail": "mailto:otevrenadata@dia.gov.cz"
     },
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
     "distribuce": [
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/0",
             "název": {
                 "cs": "Číselník v RDF Turtle",
                 "en": "Codelist in RDF Turtle"
@@ -66,6 +68,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/1",
             "název": {
                 "cs": "SPARQL Endpoint",
                 "en": "SPARQL Endpoint"
@@ -82,16 +85,18 @@
                 "typ": "Datová služba",
                 "přístupový_bod": "https://data.dia.gov.cz/sparql",
                 "popis_přístupového_bodu": "https://data.dia.gov.cz/sparql",
+                "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/1/přístupová-služba",
                 "název": {
                     "cs": "SPARQL Endpoint",
                     "en": "SPARQL Endpoint"
                 },
-                "poskytuje_datovou_sadu": "_:ds",
+                "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí",
                 "specifikace": "https://www.w3.org/TR/sparql11-protocol/"
             }
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/2",
             "název": {
                 "cs": "Číselník v JSON-LD",
                 "en": "Codelist in JSON-LD"
@@ -111,6 +116,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/3",
             "název": {
                 "cs": "Číselník v CSV",
                 "en": "Codelist in CSV"
@@ -130,6 +136,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/4",
             "název": {
                 "cs": "Číselník v HTML+RDFa",
                 "en": "Codelist in HTML+RDFa"
@@ -148,6 +155,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/5",
             "název": {
                 "cs": "Číselník v RDF TriG",
                 "en": "Codelist in RDF TriG"
@@ -166,6 +174,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/6",
             "název": {
                 "cs": "Číselník v RDF N-Triples",
                 "en": "Codelist in RDF N-Triples"
@@ -184,6 +193,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/7",
             "název": {
                 "cs": "Číselník v RDF N-Quads",
                 "en": "Codelist in RDF N-Quads"
@@ -202,6 +212,7 @@
         },
         {
             "typ": "Distribuce",
+            "iri": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí/distribuce/8",
             "název": {
                 "cs": "Číselník v RDF/XML",
                 "en": "Codelist in RDF/XML"
