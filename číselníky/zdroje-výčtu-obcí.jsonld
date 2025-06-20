@@ -28,7 +28,7 @@
         ]
     },
     "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
-    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-obcí.html",
+    "dokumentace": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.html",
     "téma": [
         "http://publications.europa.eu/resource/authority/data-theme/GOVE",
         "http://publications.europa.eu/resource/authority/data-theme/REGI"
@@ -61,8 +61,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.ttl",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.ttl",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.ttl",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.ttl",
             "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
         },
@@ -108,8 +108,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.jsonld",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.jsonld",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.jsonld",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.jsonld",
             "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
             "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
             "schéma": "https://ofn.gov.cz/číselníky/2022-02-08/schémata/json-ld/číselník.json"
@@ -128,11 +128,11 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.csv",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.csv",
             "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
             "formát": "http://publications.europa.eu/resource/authority/file-type/CSV",
-            "schéma": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.csv-metadata.json"
+            "schéma": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.csv-metadata.json"
         },
         {
             "typ": "Distribuce",
@@ -148,8 +148,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.html",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.html",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.html",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.html",
             "typ_média": "http://www.iana.org/assignments/media-types/text/html",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDFA"
         },
@@ -167,8 +167,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.trig",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.trig",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.trig",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.trig",
             "typ_média": "http://www.iana.org/assignments/media-types/application/trig",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TRIG"
         },
@@ -186,8 +186,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nt",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nt",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.nt",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.nt",
             "typ_média": "http://www.iana.org/assignments/media-types/application/n-triples",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_TRIPLES"
         },
@@ -205,8 +205,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nq",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.nq",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.nq",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.nq",
             "typ_média": "http://www.iana.org/assignments/media-types/application/n-quads",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_N_QUADS"
         },
@@ -224,8 +224,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.rdf",
-            "přístupové_url": "https://data.dia.gov.cz/zdroj/datové-sady/číselníky/zdroje-výčtu-obcí.rdf",
+            "soubor_ke_stažení": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.rdf",
+            "přístupové_url": "https://data.dia.gov.cz/soubory/číselníky/zdroje-výčtu-členů.rdf",
             "typ_média": "http://www.iana.org/assignments/media-types/application/rdf+xml",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_XML"
         }
