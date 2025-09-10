@@ -1,0 +1,64 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/úřední-deska/ÚD",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Úřední deska DIA",
+    "en": "Official bulletin board - DIA"
+  },
+  "popis": {
+    "cs": "Tato datová sada obsahuje data z úředních desek dle Otevřené formální normy Úřední desky (https://ofn.gov.cz/úřední-desky/2021-07-20/).",
+    "en": "This dataset contains information from official bulletin boards according to the formal open standard."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "úřední deska"
+    ],
+    "en": [
+      "bulletin board"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "dokumentace": "https://ofn.gov.cz/úřední-desky/2021-07-20/",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/492"
+  ],
+  "specifikace": [
+    "https://ofn.gov.cz/úřední-desky/2021-07-20/",
+    "https://ofn.gov.cz/úřední-desky/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Pavel Poledna"
+    },
+    "e-mail": "mailto:otevrenadata@dia.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/úřední-deska/ÚD/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://www.dia.gov.cz/data/notice-board",
+      "přístupové_url": "https://www.dia.gov.cz/data/notice-board",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/ld+json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+      "schéma": "https://ofn.gov.cz/úřední-desky/2021-07-20/schémata/úřední-deska.json"
+    }
+  ]
+}
