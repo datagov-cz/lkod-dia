@@ -7,8 +7,8 @@
         "en": "Codelist of sources for members of municipality unions"
     },
     "popis": {
-        "cs": "Číselník obsahuje možné zdroje výčtu obcí, které jsou členy daného svazku obcí.",
-        "en": "The codelist contains possible sources for members of municipality unions."
+        "cs": "Číselník obsahuje možné zdroje výčtu obcí, které jsou členy daného svazku obcí. Slouží především pro OFN rejstříků svazků obcí.",
+        "en": "The codelist contains possible sources for members of municipality unions. Serves primarily the OFN for municipality union registries."
     },
     "prvek_rúian": [
         "https://linked.cuzk.cz/resource/ruian/stat/1"
