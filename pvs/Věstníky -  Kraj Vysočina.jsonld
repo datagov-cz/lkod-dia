@@ -1,0 +1,84 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Věstníky -  Kraj Vysočina"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje zveřejněné věstníky \nvkladatele Kraj Vysočina a jejich obsah publikovaný na portálu gov.cz."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "věstníky",
+      "oznámení",
+      "úřední sdělení"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "právní_předpis": [
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/77",
+    "http://eurovoc.europa.eu/513"
+  ],
+  "specifikace": [
+    "https://portal.gov.cz/vestniky/ksab3eu/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Šárka Horneková"
+    },
+    "e-mail": "mailto:sarka.hornekova@dia.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+      },
+      "právní_předpis": [
+        "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+      ],
+      "soubor_ke_stažení": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=xlsx",
+      "přístupové_url": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=xlsx",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.sealed.xls",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "právní_předpis": [
+        "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+      ],
+      "soubor_ke_stažení": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=csv",
+      "přístupové_url": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+    }
+  ]
+}
