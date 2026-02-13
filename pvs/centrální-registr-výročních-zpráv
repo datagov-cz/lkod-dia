@@ -1,0 +1,77 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/centrální-registr-výročních-zpráv",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Centrální registr výročních zpráv"
+  },
+  "popis": {
+    "cs": "Datová sada obsahuje přehled zveřejněných výročních zpráv\nv oblasti poskytování informací."
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "výroční zpráva ",
+      "poskytování informací",
+      "zveřejnění",
+      "právo na informace"
+    ],
+    "en": []
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+  "dokumentace": "https://portal.gov.cz/kam-dal/pro-urady-ovm/centralni-registr-vyrocnich-zprav/metodicka-pomoc-a-kontakty",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [
+    "http://eurovoc.europa.eu/77",
+    "http://eurovoc.europa.eu/513"
+  ],
+  "specifikace": [
+    "https://portal.gov.cz/moduly/crvz-106/"
+  ],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Šárka Horneková"
+    },
+    "e-mail": "mailto:sarka.hornekova@dia.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/17651921",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/centrální-registr-výročních-zpráv/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=XLS",
+      "přístupové_url": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=XLS",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.sealed.xls",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLS"
+    },
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/centrální-registr-výročních-zpráv/distribuce/1",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=CSV",
+      "přístupové_url": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=CSV",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+    }
+  ]
+}
