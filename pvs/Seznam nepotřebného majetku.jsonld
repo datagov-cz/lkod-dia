@@ -27,6 +27,9 @@
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
+  "právní_předpis": [
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+  ],
   "koncept_euroVoc": [
     "http://eurovoc.europa.eu/2812"
   ],
@@ -52,6 +55,9 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/obsahuje-osobní-údaje/"
       },
+      "právní_předpis": [
+        "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+      ],
       "soubor_ke_stažení": "https://portal.gov.cz/nepotrebny-nemovity-majetek/?export=xlsx",
       "přístupové_url": "https://portal.gov.cz/nepotrebny-nemovity-majetek/?export=xlsx",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.sealed.xls",
@@ -67,6 +73,9 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
+      "právní_předpis": [
+        "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+      ],
       "soubor_ke_stažení": "https://portal.gov.cz/nepotrebny-nemovity-majetek/?export=csv",
       "přístupové_url": "https://portal.gov.cz/nepotrebny-nemovity-majetek/?export=csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
