@@ -59,7 +59,7 @@
       ],
       "soubor_ke_stažení": "https://portal.gov.cz/vestniky/s3caayq/?export=xlsx",
       "přístupové_url": "https://portal.gov.cz/vestniky/s3caayq/?export=xlsx",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.sealed.xls",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     },
     {
