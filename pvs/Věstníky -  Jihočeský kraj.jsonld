@@ -1,12 +1,12 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-JČK",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina",
   "typ": "Datová sada",
   "název": {
-    "cs": "Věstníky -  Jihočeský kraj"
+    "cs": "Věstníky -  Kraj Vysočina"
   },
   "popis": {
-    "cs": "Datová sada obsahuje zveřejněné věstníky \nvkladatele Jihočeský kraj a jejich obsah publikovaný na portálu gov.cz."
+    "cs": "Datová sada obsahuje zveřejněné věstníky \nvkladatele Kraj Vysočina a jejich obsah publikovaný na portálu gov.cz."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -16,8 +16,8 @@
   "klíčové_slovo": {
     "cs": [
       "věstníky",
-      "úřední sdělení",
-      "oznámení"
+      "oznámení",
+      "úřední sdělení"
     ],
     "en": []
   },
@@ -32,6 +32,9 @@
     "http://eurovoc.europa.eu/77",
     "http://eurovoc.europa.eu/513"
   ],
+  "specifikace": [
+    "https://portal.gov.cz/vestniky/ksab3eu/"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -43,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-JČK/distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -54,14 +57,14 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "https://portal.gov.cz/vestniky/kdib3rr/?export=xlsx",
-      "přístupové_url": "https://portal.gov.cz/vestniky/kdib3rr/?export=xlsx",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.sealed.xls",
+      "soubor_ke_stažení": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=xlsx",
+      "přístupové_url": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=xlsx",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-JČK/distribuce/1",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -72,8 +75,8 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "https://portal.gov.cz/vestniky/kdib3rr/?export=csv",
-      "přístupové_url": "https://portal.gov.cz/vestniky/kdib3rr/?export=csv",
+      "soubor_ke_stažení": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=csv",
+      "přístupové_url": "https://portal-test.gov.cz/vestniky/ksab3eu/?export=csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
