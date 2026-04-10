@@ -59,8 +59,8 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=XLS",
-      "přístupové_url": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=XLS",
+      "soubor_ke_stažení": "https://portal.gov.cz/moduly/crvz-106/?export=xlsx",
+      "přístupové_url": "https://portal.gov.cz/moduly/crvz-106/?export=xlsx",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     },
@@ -77,8 +77,8 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=CSV",
-      "přístupové_url": "https://portal.gov.cz/epetice/api/v1/petice/stahnout?format=CSV",
+      "soubor_ke_stažení": "https://portal.gov.cz/moduly/crvz-106/?export=csv",
+      "přístupové_url": "https://portal.gov.cz/moduly/crvz-106/?export=csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
