@@ -57,14 +57,14 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "http://portal.gov.cz/vestniky/kdib3rr/?export=xlsx",
-      "přístupové_url": "http://portal.gov.cz/vestniky/kdib3rr/?export=xlsx",
+      "soubor_ke_stažení": "https://portal.gov.cz/vestniky/kdib3rr/?export=xlsx",
+      "přístupové_url": "https://portal.gov.cz/vestniky/kdib3rr/?export=xlsx",
       "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina/distribuce/1",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-jihočeský-kraj/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -75,8 +75,8 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "http://portal.gov.cz/vestniky/kdib3rr/?export=csv",
-      "přístupové_url": "http://portal.gov.cz/vestniky/kdib3rr/?export=csv",
+      "soubor_ke_stažení": "https://portal.gov.cz/vestniky/kdib3rr/?export=csv",
+      "přístupové_url": "https://portal.gov.cz/vestniky/kdib3rr/?export=csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
