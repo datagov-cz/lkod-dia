@@ -3,10 +3,10 @@
   "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-jihočeský-kraj",
   "typ": "Datová sada",
   "název": {
-    "cs": "Věstníky -  Kraj Vysočina"
+    "cs": "Věstníky -  Jihočeský kraj"
   },
   "popis": {
-    "cs": "Datová sada obsahuje zveřejněné věstníky \nvkladatele Kraj Vysočina a jejich obsah publikovaný na portálu gov.cz."
+    "cs": "Datová sada obsahuje zveřejněné věstníky \nvkladatele Jihočeský kraj a jejich obsah publikovaný na portálu gov.cz."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -33,7 +33,7 @@
     "http://eurovoc.europa.eu/513"
   ],
   "specifikace": [
-    "https://portal.gov.cz/vestniky/ksab3eu/"
+    "https://portal.gov.cz/vestniky/kdib3rr/"
   ],
   "kontaktní_bod": {
     "typ": "Organizace",
