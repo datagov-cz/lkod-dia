@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina",
+  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-jihočeský-kraj",
   "typ": "Datová sada",
   "název": {
     "cs": "Věstníky -  Kraj Vysočina"
@@ -46,7 +46,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-kraj-vysočina/distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/pvs/věstníky-jihočeský-kraj/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
