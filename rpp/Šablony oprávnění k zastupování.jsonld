@@ -55,7 +55,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/orgány-veřejné-moci/distribuce/0",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/šablony-okz/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -71,7 +71,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/orgány-veřejné-moci/distribuce/1",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/šablony-okz/distribuce/1",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -87,7 +87,7 @@
     },
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/orgány-veřejné-moci/distribuce/2",
+      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/šablony-okz/distribuce/2",
       "název": {
         "cs": "SPARQL Endpoint",
         "en": "SPARQL Endpoint"
@@ -104,12 +104,12 @@
         "typ": "Datová služba",
         "přístupový_bod": "https://rpp-opendata.egon.gov.cz/odrpp/sparql/",
         "popis_přístupového_bodu": "https://rpp-opendata.egon.gov.cz/odrpp/sparql/",
-        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/orgány-veřejné-moci/distribuce/2/přístupová-služba",
+        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/šablony-okz/distribuce/2/přístupová-služba",
         "název": {
           "cs": "SPARQL Endpoint",
           "en": "SPARQL Endpoint"
         },
-        "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/orgány-veřejné-moci",
+        "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/rpp/šablony-okz",
         "specifikace": "https://www.w3.org/TR/sparql11-protocol/"
       }
     }
