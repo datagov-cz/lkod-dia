@@ -54,7 +54,7 @@
       "přístupové_url": "https://isdr.gov.cz/api/wa/dia/isdr/Opendata/BasicDataZadosti",
       "přístupová_služba": {
         "typ": "Datová služba",
-        "přístupový_bod": "https://isdr.gov.cz/api/wa/dia/isdr/Opendata/BasicDataZadosti",
+        "přístupový_bod": "https://isdr.gov.cz/dia/isdr/Opendata/BasicDataZadosti?format=json",
         "popis_přístupového_bodu": "https://isdr.gov.cz/dia/isdr/Opendata/openapi.json",
         "iri": "https://data.dia.gov.cz/zdroj/datové-sady/isdř/žádosti-OHA/distribuce/0/přístupová-služba",
         "název": {
