@@ -53,8 +53,8 @@
                 "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
                 "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
             },
-            "soubor_ke_stažení": "https://datagov-cz.github.io/slovniky-ofn/slovník-pojmů-egovernmentu.ttl",
-            "přístupové_url": "https://datagov-cz.github.io/slovniky-ofn/slovník-pojmů-egovernmentu.ttl",
+            "soubor_ke_stažení": "https://datagov-cz.github.io/slovniky-ofn/slovník-egov.ttl",
+            "přístupové_url": "https://datagov-cz.github.io/slovniky-ofn/slovník-egov.ttl",
             "typ_média": "http://www.iana.org/assignments/media-types/text/turtle",
             "formát": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
         }
