@@ -61,8 +61,8 @@
       ],
       "soubor_ke_stažení": "https://portal.gov.cz/otevrena-data/epetice/xlsx",
       "přístupové_url": "https://portal.gov.cz/otevrena-data/epetice/xlsx",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.sealed.xls",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/XLS"
+      "typ_média": "http://www.iana.org/assignments/media-types/application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/XLSX"
     },
     {
       "typ": "Distribuce",
