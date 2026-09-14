@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/isdř/žádosti-OHA",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/4471414be4fc83377bff4c4f9cd2a719",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam žádostí na OHA s vydaným stanoviskem",
@@ -13,21 +13,29 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "stanovisko, OHA, formulář, žádost"
+      "stanovisko",
+      "OHA",
+      "formulář",
+      "žádost"
     ],
     "en": [
-      "opinion, OHA, form, application"
+      "opinion, OHA, form, application",
+      "opinion",
+      "OHA",
+      "form",
+      "application"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
-  "koncept_euroVoc": [],
+  "právní_předpis": [
+    "http://data.europa.eu/eli/dir/2019/1024/oj",
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -39,7 +47,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/isdř/žádosti-OHA/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/4471414be4fc83377bff4c4f9cd2a719/distribuce/0",
       "název": {
         "cs": "Žádosti se stanoviskem OHA",
         "en": "Applications with an OHA opinion"
@@ -54,17 +62,20 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "přístupové_url": "https://isdr.gov.cz/api/wa/dia/isdr/Opendata/BasicDataZadosti",
+      "přístupové_url": "https://isdr.gov.cz/dia/isdr/Opendata/BasicDataZadosti?format=json",
       "přístupová_služba": {
         "typ": "Datová služba",
         "přístupový_bod": "https://isdr.gov.cz/dia/isdr/Opendata/BasicDataZadosti?format=json",
         "popis_přístupového_bodu": "https://isdr.gov.cz/dia/isdr/Opendata/openapi.json",
-        "iri": "https://data.dia.gov.cz/zdroj/datové-sady/isdř/žádosti-OHA/distribuce/0/přístupová-služba",
+        "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/4471414be4fc83377bff4c4f9cd2a719/distribuce/0/přístupová-služba",
         "název": {
           "cs": "Žádosti se stanoviskem OHA",
           "en": "Applications with an OHA opinion"
         },
-        "poskytuje_datovou_sadu": "https://data.dia.gov.cz/zdroj/datové-sady/isdř/žádosti-OHA"
+        "poskytuje_datovou_sadu": "https://data.gov.cz/zdroj/datové-sady/17651921/4471414be4fc83377bff4c4f9cd2a719",
+        "právní_předpis": [
+          "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+        ]
       }
     }
   ]
