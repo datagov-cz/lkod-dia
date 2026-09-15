@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/registry/smlouvy-v-registru-smluv",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/a89f452b968559acc35cde2567cb2eb0",
   "typ": "Datová sada",
   "název": {
     "cs": "Smlouvy v Registru smluv"
@@ -11,13 +11,10 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
       "registr smluv"
-    ],
-    "en": []
+    ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
   "dokumentace": "https://smlouvy.gov.cz/stranka/otevrena-data",
@@ -25,7 +22,10 @@
     "http://publications.europa.eu/resource/authority/data-theme/GOVE",
     "http://publications.europa.eu/resource/authority/data-theme/JUST"
   ],
-  "koncept_euroVoc": [],
+  "právní_předpis": [
+    "http://data.europa.eu/eli/dir/2019/1024/oj",
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -37,7 +37,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/registry/smlouvy-v-registru-smluv/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/a89f452b968559acc35cde2567cb2eb0/distribuce/0",
       "název": {
         "cs": "Informační systém registru smluv"
       },
