@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/cloud-computing/poskytovatelé",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/31f68a00a4407059184646187092ad42",
   "typ": "Datová sada",
   "název": {
     "cs": "Poskytovatelé cloud computingu"
@@ -11,20 +11,21 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "cloud computing",
       "poskytovatelé",
+      "cloud computing",
       "katalog cloud computingu"
-    ],
-    "en": []
+    ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/CONT",
   "dokumentace": "https://www.dia.gov.cz/oha/katalog-cloud-computingu/",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "právní_předpis": [
+    "http://data.europa.eu/eli/dir/2019/1024/oj",
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
   ],
   "koncept_euroVoc": [
     "http://eurovoc.europa.eu/c_433922a6"
@@ -40,7 +41,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/cloud-computing/poskytovatelé/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/31f68a00a4407059184646187092ad42/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
