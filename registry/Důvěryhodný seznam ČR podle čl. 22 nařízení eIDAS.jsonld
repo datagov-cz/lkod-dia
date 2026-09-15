@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/registry",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/bb7cc0490653831ea31dda9f070e5af6",
   "typ": "Datová sada",
   "název": {
     "cs": "Důvěryhodný seznam ČR podle čl. 22 nařízení eIDAS"
@@ -11,23 +11,23 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
       "důvěryhodný seznam",
-      "kvalifikovaní poskytovatelé služeb vytvářejících důvěru v ČR",
       "eIDAS",
+      "kvalifikovaní poskytovatelé služeb vytvářejících důvěru v ČR",
       "seznam"
-    ],
-    "en": []
+    ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/IRREG",
   "dokumentace": "https://www.dia.gov.cz/egovernment/eidas-sluzby-vytvarejici-duveru-a-elektronicka-identifikace/povinne-zverejnovane-informace/duveryhodny-seznam-ceske-republiky-podle-cl-22-narizeni-eidas/",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
-  "koncept_euroVoc": [],
+  "právní_předpis": [
+    "http://data.europa.eu/eli/dir/2019/1024/oj",
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "e-mail": "mailto:eidas@dia.gov.cz"
@@ -36,7 +36,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/registry/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/bb7cc0490653831ea31dda9f070e5af6/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
