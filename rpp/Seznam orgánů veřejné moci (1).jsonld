@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.dia.gov.cz/zdroj/datové-sady/czechpoint/seznamorganuverejnemoci",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/783d5ce6f055c0030806a7259ec287a4",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam orgánů veřejné moci"
@@ -11,26 +11,26 @@
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
   ],
-  "geografické_území": [],
-  "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "OVM",
-      "orgán veřejné moci",
-      "veřejné instituce",
-      "seznam",
-      "seznam orgánů",
       "seznam orgánů veřejné moci",
-      "rejstřík"
-    ],
-    "en": []
+      "orgán veřejné moci",
+      "seznam orgánů",
+      "veřejné instituce",
+      "rejstřík",
+      "OVM",
+      "seznam"
+    ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/DAILY",
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/REGI",
-    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE",
+    "http://publications.europa.eu/resource/authority/data-theme/REGI"
   ],
-  "koncept_euroVoc": [],
+  "právní_předpis": [
+    "http://data.europa.eu/eli/dir/2019/1024/oj",
+    "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
+  ],
   "kontaktní_bod": {
     "typ": "Organizace",
     "jméno": {
@@ -42,7 +42,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.dia.gov.cz/zdroj/datové-sady/czechpoint/seznamorganuverejnemoci/distribuce/0",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/17651921/783d5ce6f055c0030806a7259ec287a4/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
